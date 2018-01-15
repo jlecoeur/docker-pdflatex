@@ -11,6 +11,7 @@ RUN apt-get update \
         texlive-lang-all \
         texlive-font-utils \
         texlive-extra-utils \
+        ghostscript \
         git \
         make
 
