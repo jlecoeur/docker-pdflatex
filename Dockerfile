@@ -13,6 +13,7 @@ RUN apt-get update \
         texlive-extra-utils \
         ghostscript \
         git \
+        ssh \
         make
 
 CMD ["/bin/bash"]
